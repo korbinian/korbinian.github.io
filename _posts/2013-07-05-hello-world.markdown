@@ -1,8 +1,9 @@
 ---
+published: true
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-07-05 18:16:42
+title: "hello world!"
+date: 2013-07-05T18:16:42.000Z
 categories: jekyll update
 ---
 
-hello world
+### hello
